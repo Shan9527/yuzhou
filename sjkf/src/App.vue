@@ -4,7 +4,7 @@
 
     <router-view/>
     <h1>123456</h1>
-    <h2>25ldkdjdj</h2>
+    <h2>25ldkdjdj5555</h2>
   </div>
 </template>
 
