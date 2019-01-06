@@ -4,9 +4,8 @@
 
     <router-view/>
     <h1>123456</h1>
-    <h2>25ldkdjdj5555222221111111123345665165jjjjjjjoo5988658oooo</h2>
-    <h4>5555</h4>
-  </div>
+    <h2>25ldkdjdj555522222111111112334561233456566gergergeg</h2>
+   
 </template>
 
 <script>
